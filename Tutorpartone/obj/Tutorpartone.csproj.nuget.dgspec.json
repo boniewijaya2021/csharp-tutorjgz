@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj": {}
+    "/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj": {}
   },
   "projects": {
-    "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj": {
+    "/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj",
+        "projectUniqueName": "/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj",
         "projectName": "Tutorpartone",
-        "projectPath": "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj",
+        "projectPath": "/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj",
         "packagesPath": "/Users/bonie/.nuget/packages/",
-        "outputPath": "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/obj/",
+        "outputPath": "/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bonie/.nuget/NuGet/NuGet.Config"

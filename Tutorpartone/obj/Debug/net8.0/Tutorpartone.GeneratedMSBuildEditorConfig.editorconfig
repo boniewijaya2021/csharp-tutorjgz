@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tutorpartone
-build_property.ProjectDir = /Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/
+build_property.ProjectDir = /Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

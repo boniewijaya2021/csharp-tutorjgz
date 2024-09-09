@@ -4,7 +4,10 @@ namespace Tutorpartone
 {
     class BasicBagianSatu
     {
-        public static void Main(string[] args)
+        public BasicBagianSatu(){
+
+        }
+        public void ShowVariables()
         {
             Console.WriteLine("=== Program Start ===");  // Log Start.
             Console.WriteLine(); // Mencetak baris kosong.

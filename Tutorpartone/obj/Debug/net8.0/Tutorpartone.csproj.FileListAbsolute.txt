@@ -13,3 +13,18 @@
 /Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.pdb
 /Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.genruntimeconfig.cache
 /Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/ref/Tutorpartone.dll
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/bin/Debug/net8.0/Tutorpartone
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/bin/Debug/net8.0/Tutorpartone.deps.json
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/bin/Debug/net8.0/Tutorpartone.runtimeconfig.json
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/bin/Debug/net8.0/Tutorpartone.dll
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/bin/Debug/net8.0/Tutorpartone.pdb
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.AssemblyInfoInputs.cache
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.AssemblyInfo.cs
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.csproj.CoreCompileInputs.cache
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.sourcelink.json
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.dll
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/refint/Tutorpartone.dll
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.pdb
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/Tutorpartone.genruntimeconfig.cache
+/Users/bonie/Documents/Net/repogit/csharp-tutorjgz/Tutorpartone/obj/Debug/net8.0/ref/Tutorpartone.dll
