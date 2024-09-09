@@ -1,8 +1,3 @@
-# csharp-tutorjgz
-Materi Tutorial Pelatihan C# untuk JavaGenzLabs
-
-# install plugin yang diperlukan, lalu buat
-# launch,json
 {
     "version": "0.2.0",
     "configurations": [
@@ -83,25 +78,4 @@ Materi Tutorial Pelatihan C# untuk JavaGenzLabs
       }
     ]
   }
-  # lalu buat  tasks.json
-  {
-    "version": "2.0.0",
-    "tasks": [
-      {
-        "label": "build",
-        "command": "dotnet",
-        "args": [
-          "build",
-          "/Users/bonie/Documents/Net/Materi Tutorial Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj"
-        ],
-        "problemMatcher": "$msCompile"
-      }
-    ]
-  }
-  # note di bagian build, di set sesuai path url .csproj
-  # lalu buat .env di root project  touch .env
-  # ctrl+shift+d pilih project yang akan di debug
-  # jalankan script berikut untuk memastikan bisa di debug per masing2 file 
-  dotnet run --project /Users/bonie/Documents/Net/Materi\ Tutorial\ Jgz/csharp-tutorjgz/Tutorpartone/Tutorpartone.csproj
-  # perhatikan jika nama folder ada spacy makan tambahkan \ 
   
